@@ -1,1 +1,2 @@
 Up for Grabs: https://up-for-grabs.net/#/
+Awesome for Beginners: https://github.com/MunGell/awesome-for-beginners
